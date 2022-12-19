@@ -1,0 +1,4 @@
+bootstrapped==0.0.2
+numpy==1.23.2
+openpyxl==3.0.10
+pandas==1.4.3
